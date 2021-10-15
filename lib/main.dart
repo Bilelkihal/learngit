@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Learn git with Bilel',
+      title: 'Learn git with Djamel',
       debugShowCheckedModeBanner: false,
       home: Homepage(),
     );
